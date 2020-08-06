@@ -30,7 +30,7 @@ Welcome to my GitHub. I'm Shawn, an Automation Engineer (fancier sounding DevOps
 </p>
 <p>
     <br></br>
-    <p>📣 Get in contact :</p>
+    📣 Get in contact :
 
 
  <a href="mailto:tseclabs@gmail.com?subject=[GitHub]%20🔥%20add%20contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -40,8 +40,8 @@ Welcome to my GitHub. I'm Shawn, an Automation Engineer (fancier sounding DevOps
  <a href="https://twitter.com/sstephens517"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://discord.gg/bDerP5m"><img src="https://img.shields.io/badge/-Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
- 
- 
+
+
 ##  🔭 I’m currently Working on...
 - <a href="https://github.com/tseclabs/gostigify">GoStigify</a>
 - I am working on an Infrastructure as Code project (@TSecLabs) built with GO,Vue.js, oVirt, OpenShift, and GCP.
@@ -54,9 +54,9 @@ Welcome to my GitHub. I'm Shawn, an Automation Engineer (fancier sounding DevOps
 
 ## Certifications
 #### Current
-- ![GPEN](assets/gpen.png)![GWAPT](assets/gpen.png)![GCIH](assets/gpen.png)![GCIA](assets/gcia.png)
-- ![GCED](assets/gced.png)![GCCC](assets/gccc.png)![GSEC](assets/gsec.png)![Security +](assets/secplus.png)
-- ![Network +](assets/netplus.png)![vSphere Foundation](assets/vsf.png)
+ ![GPEN](assets/gpen.png)![GWAPT](assets/gpen.png)![GCIH](assets/gpen.png)![GCIA](assets/gcia.png)
+ ![GCED](assets/gced.png)![GCCC](assets/gccc.png)![GSEC](assets/gsec.png)![Security +](assets/secplus.png)
+ ![Network +](assets/netplus.png)![vSphere Foundation](assets/vsf.png)
 
 #### Working Toward 2020-2021
 - GPYC
@@ -69,5 +69,7 @@ Welcome to my GitHub. I'm Shawn, an Automation Engineer (fancier sounding DevOps
 ## ⚡ Fun fact: ...
 - I still play World Of Warcraft, although less frequent add my Battle Tag : AlphaGing
 - [Let's Get Free Stocks with RobinHood!](https://join.robinhood.com/shawns428)
+
+<img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstephens517&layout=compact"/>
 
  
