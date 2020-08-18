@@ -54,9 +54,9 @@ Welcome to my GitHub. I'm Shawn, an Automation Engineer (fancier sounding DevOps
 
 ## Certifications
 #### Current
- ![GPEN](assets/gpen.png)![GWAPT](assets/gpen.png)![GCIH](assets/gpen.png)![GCIA](assets/gcia.png)
- ![GCED](assets/gced.png)![GCCC](assets/gccc.png)![GSEC](assets/gsec.png)![Security +](assets/secplus.png)
- ![Network +](assets/netplus.png)![vSphere Foundation](assets/vsf.png)
+ ![GPEN](github.com/ShawnStephens517/ShawnStephens517/assets/gpen.png)![GWAPT](github.com/ShawnStephens517/ShawnStephens517/assets/gwapt.png)![GCIH](github.com/ShawnStephens517/ShawnStephens517/assets/gcih.png)![GCIA](github.com/ShawnStephens517/ShawnStephens517/assets/gcia.png)
+ ![GCED](github.com/ShawnStephens517/ShawnStephens517/assets/gced.png)![GCCC](github.com/ShawnStephens517/ShawnStephens517/assets/gccc.png)![GSEC](github.com/ShawnStephens517/ShawnStephens517/assets/gsec.png)![Security +](github.com/ShawnStephens517/ShawnStephens517/assets/secplus.png)
+ ![Network +](github.com/ShawnStephens517/ShawnStephens517/assets/netplus.png)![vSphere Foundation](github.com/ShawnStephens517/ShawnStephens517/assets/vsf.png)
 
 #### Working Toward 2020-2021
 - GPYC
