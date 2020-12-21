@@ -44,8 +44,8 @@ Welcome to my GitHub. I'm Shawn, an Automation Engineer (fancier sounding DevOps
  
 ##  🔭 I’m currently Working on...
 - <a href="https://github.com/tseclabs/gostigify">GoStigify</a>
-- I am working on an Infrastructure as Code project (@TSecLabs) built with GO,Vue.js, oVirt, OpenShift, and GCP.
-- I also am working to generate articles on a consistent bases for my <a href="https://tseclabs.com/blog" add target="_blank">blog</a>. 
+- I am working on an Infrastructure as Code project (@TSecLabs) built with GO, React, oVirt, OpenShift, and GCP.
+- I also am working on articles at an inconsistent bases for my <a href="https://tseclabs.com/blog" add target="_blank">blog</a>. 
 ## 🌱 I’m currently learning...
 - Golang
 - Vue.js
