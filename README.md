@@ -1,5 +1,5 @@
 ### Hi there 
-Welcome to my GitHub. I'm Shawn, a Cyber Engineer with a love for learning. I have primarily focused on the Systems(Admin & Engineering) side of the IT world for the last ~11 years in the US Army and across a few different companies.  The last couple years I have shifted to focus more on security, automation, and virtualization. 
+Welcome to my GitHub. I'm Shawn, a Cyber Engineer with a love for learning. I like to consider myself somewhat of an IT mercenary, I've touched a bunch of different pieces of the greater IT field from sys-admin, small scale networking, NetApp administration, sprinkle in some cloud and DevOPS, and even a bit of security work.  The last couple years I have shifted to focus more on security, automation, and virtualization. 
 <p>
  <p>
    <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ShawnStephens517&show_icons=true hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
