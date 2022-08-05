@@ -43,9 +43,8 @@ Welcome to my GitHub. I'm Shawn, a Cyber Engineer with a love for learning. I li
  
  
 ##  🔭 I’m currently Working on...
-- <a href="https://github.com/tseclabs/gostigify">GoStigify</a>
-- I am working on an Infrastructure as Code project (@TSecLabs) built with Go, React, oVirt, OpenShift.
-- I also am working on articles at an inconsistent bases for my <a href="https://tseclabs.com/blog" add target="_blank">blog</a>. 
+- 
+ 
 ## 🌱 I’m currently learning...
 - Golang
 - ReactJS
