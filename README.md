@@ -44,27 +44,22 @@ Welcome to my GitHub. I'm Shawn, a Cyber Engineer with a love for learning. I li
  
 ##  🔭 I’m currently Working on...
 - <a href="https://github.com/tseclabs/gostigify">GoStigify</a>
-- I am working on an Infrastructure as Code project (@TSecLabs) built with GO, React, oVirt, OpenShift, and GCP.
+- I am working on an Infrastructure as Code project (@TSecLabs) built with Go, React, oVirt, OpenShift.
 - I also am working on articles at an inconsistent bases for my <a href="https://tseclabs.com/blog" add target="_blank">blog</a>. 
 ## 🌱 I’m currently learning...
 - Golang
-- Vue.js
-- OpenShift 4.5
-- GCP
+- ReactJS
+- OpenShift
 
 ## Certifications
 #### Current
 - ![GPEN](assets/gpen.png)![GWAPT](assets/gwapt.png)![GCIH](assets/gcih.png)![GCIA](assets/gcia.png)
-- ![GCED](assets/gced.png)![GCCC](assets/gccc.png)![GSEC](assets/gsec.png)![Security +](assets/secplus.png)
+- ![GCCC](assets/gccc.png)![GSEC](assets/gsec.png)![Security +](assets/secplus.png)
 - ![Network +](assets/netplus.png)![vSphere Foundation](assets/vsf.png)
 
-#### Working Toward 2020-2021
-- GPYC
-- RHCSA
-- RHCE
-- GCP Cloud Architect
-- GCP Cloud Security Engineer
-- GCP Cloud DevOps Engineer
+#### Working Toward 2022
+
+
 
 ## ⚡ Fun fact: ...
 - I still play World Of Warcraft, although less frequent add my Battle Tag : AlphaGing
