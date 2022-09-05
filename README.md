@@ -33,9 +33,9 @@ Welcome to my GitHub. I'm Shawn, a Cyber Engineer with a love for learning. I li
     <p>📣 Get in contact :</p>
 
 
- <a href="mailto:tseclabs@gmail.com?subject=[GitHub]%20🔥%20add%20contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+ <a href="mailto:contact@cyberscythe.com?subject=[GitHub]%20🔥%20add%20contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
  <a href="https://instagram.com/shawnstephens517"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://twitch.tv/tseclabs"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+ <a href="https://twitch.tv/thecyberscythe"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
  <a href="https://linkedin.com/in/shawnstephens517"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/sstephens517"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://discord.gg/bDerP5m"><img src="https://img.shields.io/badge/-Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -62,6 +62,5 @@ Welcome to my GitHub. I'm Shawn, a Cyber Engineer with a love for learning. I li
 
 ## ⚡ Fun fact: ...
 - I still play World Of Warcraft, although less frequent add my Battle Tag : AlphaGing
-- [Let's Get Free Stocks with RobinHood!](https://join.robinhood.com/shawns428)
 
  
