@@ -1,8 +1,10 @@
 ### Hi there 
 Welcome to my GitHub. I'm Shawn, a Cyber Engineer with a love for learning. I like to consider myself somewhat of an IT mercenary, I've touched a bunch of different pieces of the greater IT field from sys-admin, small scale networking, NetApp administration, sprinkle in some cloud and DevOPS, and even a bit of security work.  The last couple years I have shifted to focus more on security, automation, and virtualization. 
+
+[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnstephens517)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
  <p>
-  [![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnstephens517)](https://github.com/anuraghazra/github-readme-stats)
   
    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
    <a href="https://gitlab.com/shawnstephens517"> <img src="https://img.shields.io/badge/-Gitlab-181717?style=flat-square&logo=Gitlab&logoColor=white"/></a>
